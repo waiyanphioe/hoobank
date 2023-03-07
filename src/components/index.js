@@ -1,0 +1,12 @@
+export { default as Navbar } from "./navbar";
+export { default as Hero } from "./hero";
+export { default as GetStarted } from "./getStarted";
+export { default as Stats } from "./stats";
+export { default as Business } from "./business";
+export { default as Billings } from "./billings";
+export { default as CardDeal } from "./cardDeal";
+export { default as Testimonials } from "./testimonials";
+export { default as Clients } from "./clients";
+export { default as CTA } from "./cta";
+export { default as Footer } from "./footer";
+export { default as ArrowUp } from "./arrowup";
