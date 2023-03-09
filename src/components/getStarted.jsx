@@ -18,7 +18,6 @@ const GetStarted = () => {
 						src={arrowUp}
 						alt="arrow-up"
 						className="w-[23px] h-[23px] object-contain"
-						loading="lazy"
 					/>
 				</div>
 				<p className="font-poppins font-medium text-[18px] leading-[23px]">

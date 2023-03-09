@@ -20,7 +20,6 @@ const Hero = () => {
 					<img
 						src={discount}
 						alt="discount"
-						loading="lazy"
 						className="w-[32px] h-[32px]"
 					/>
 					<p
@@ -64,7 +63,6 @@ const Hero = () => {
 					src={robot}
 					alt="robot"
 					className="w-full h-full relative z-[5]"
-					loading="lazy"
 				/>
 				<div className=" absolute z-0 w-[40%] h-[35%] top-0 pink__gradient" />
 				<div className=" absolute z-[1] w-[80%] h-[80%] rounded-full bottom-40 white__gradient" />
